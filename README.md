@@ -1,2 +1,2 @@
-# SOChecker
+# SOCChecker
 In progress..
